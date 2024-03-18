@@ -1,9 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
-    <path d="M50.4 78.5a75.1 75.1 0 0 0-28.5 6.9l24.2-65.7c.7-2 1.9-3.2 3.4-3.2h29c1.5 0 2.7 1.2 3.4 3.2l24.2 65.7s-11.6-7-28.5-7L67 45.5c-.4-1.7-1.6-2.8-2.9-2.8-1.3 0-2.5 1.1-2.9 2.7L50.4 78.5Zm-1.1 28.2Zm-4.2-20.2c-2 6.6-.6 15.8 4.2 20.2a17.5 17.5 0 0 1 .2-.7 5.5 5.5 0 0 1 5.7-4.5c2.8.1 4.3 1.5 4.7 4.7.2 1.1.2 2.3.2 3.5v.4c0 2.7.7 5.2 2.2 7.4a13 13 0 0 0 5.7 4.9v-.3l-.2-.3c-1.8-5.6-.5-9.5 4.4-12.8l1.5-1a73 73 0 0 0 3.2-2.2 16 16 0 0 0 6.8-11.4c.3-2 .1-4-.6-6l-.8.6-1.6 1a37 37 0 0 1-22.4 2.7c-5-.7-9.7-2-13.2-6.2Z" />
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.84375"
+     inkscape:cx="63.728814"
+     inkscape:cy="64"
+     inkscape:window-width="1280"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <style
+     id="style1">
         path { fill: #000; }
         @media (prefers-color-scheme: dark) {
             path { fill: #FFF; }
         }
     </style>
+  <g
+     id="use9"
+     style="fill:#1a1a1a"
+     transform="matrix(5.3225296,0,0,5.3225296,-152.21013,-396.73424)"
+     inkscape:export-filename="bioinformatix-symbol.png"
+     inkscape:export-xdpi="517.98999"
+     inkscape:export-ydpi="517.98999">
+    <path
+       style="opacity:1;fill:#1a1a1a;stroke:none;stroke-width:0.268585px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.238782,87.5437 v 6.264556 l 5.740808,3.299914 5.747067,-3.31357 -0.01454,-6.643355 -5.336826,-3.050384 -0.857835,3.105965 3.074252,1.7627 2e-6,3.03834 -2.626175,1.496129 -2.589497,-1.505679 -0.002,-3.627382 z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.833186,82.422682 c -0.85911,-2.302267 0.218972,-4.157295 1.002654,-6.404809 1.050328,1.851083 3.486504,3.043867 3.229037,5.607398 -0.257467,2.563531 -0.273634,5.082881 -0.273634,5.082881 -1.062571,-1.277013 -3.098946,-1.983203 -3.958057,-4.28547 z"
+       id="path2"
+       sodipodi:nodetypes="zczcz" />
+  </g>
 </svg>
