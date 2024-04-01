@@ -11,10 +11,10 @@ tags:
   - R
   - shell scripting
 metadata:
-  canonical: https://bioinformatix.netlify.app/top-three-essential-skills-for-bioinformaticians
+  canonical: https://bioinformatix.netlify.app/240328-top-three-essential-skills-for-bioinformaticians
 ---
 
-Proficiency in computer programming is an essential skill required in the world of [bioinformatics](exploring-the-world-of-bioinformatics). Here are the top three essential programming skills for a bioinformatician along with suggestions on how to acquire them:
+Proficiency in computer programming is an essential skill required in the world of [bioinformatics](240327-exploring-the-world-of-bioinformatics). Here are the top three essential programming skills for a bioinformatician along with suggestions on how to acquire them:
 
 1. **Proficiency in Python:**
    Python is widely used in bioinformatics for its versatility, readability, and extensive libraries. Bioinformaticians utilize Python for various tasks such as data manipulation, analysis, visualization, and automation of bioinformatics workflows. Python libraries like Biopython provide specialized tools for tasks such as sequence analysis, structure prediction, and interaction networks, making it indispensable for bioinformatics research.

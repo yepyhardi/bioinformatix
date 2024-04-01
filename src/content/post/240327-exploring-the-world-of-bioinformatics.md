@@ -10,7 +10,7 @@ tags:
   - programming
   - computational biology
 metadata:
-  canonical: https://bioinformatix.netlify.app/exploring-the-world-of-bioinformatics
+  canonical: https://bioinformatix.netlify.app/240327-exploring-the-world-of-bioinformatics
 ---
 
 In the fast-paced realm of modern science, one field stands out as a beacon of innovation and discovery: bioinformatics. Combining biology, computer science, and mathematics, bioinformatics plays a pivotal role in deciphering the intricate codes of life itself. In this article, we delve into the depths of bioinformatics, exploring its definition, importance, scope, and the essential skills required to navigate this fascinating domain.
