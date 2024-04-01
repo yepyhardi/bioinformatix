@@ -38,8 +38,8 @@ The scope of bioinformatics is as vast as the diversity of life itself. From ana
 
 Entering the realm of bioinformatics requires a diverse skill set that combines expertise in biology, computer science, statistics, and problem-solving. Some essential skills for aspiring bioinformaticians include:
 
-1. **Programming:** Proficiency in programming languages such as Python, R, and Perl for data manipulation, analysis, and visualization.
-2. **Statistics:** Understanding statistical methods for hypothesis testing, data modeling, and inference.
+1. **[Programming](240328-three-most-essential-skills-for-bioinformaticians):** Proficiency in programming languages such as Python, R, and Perl for data manipulation, analysis, and visualization.
+2. **[Statistics](240329-biostatistics-for-bioinformatics):** Understanding statistical methods for hypothesis testing, data modeling, and inference.
 3. **Biology:** Knowledge of molecular biology, genetics, and biochemistry to interpret biological data effectively.
 4. **Data Analysis:** Familiarity with bioinformatics tools and algorithms for sequence analysis, genome assembly, and molecular modeling.
 5. **Critical Thinking:** Ability to critically evaluate scientific literature, design experiments, and troubleshoot analytical challenges.

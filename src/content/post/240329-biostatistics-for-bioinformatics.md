@@ -13,7 +13,7 @@ metadata:
   canonical: https://bioinformatix.netlify.app/240329-biostatistics-for-bioinformatics
 ---
 
-In the realm of bioinformatics, where vast amounts of biological data are generated daily, the role of biostatistical tools cannot be overstated. These tools serve as the backbone of data analysis, enabling researchers to extract meaningful insights from complex datasets. For newcomers to the field of bioinformatics, understanding the basics of biostatistical tools is essential for navigating this exciting domain. In this article, we'll explore the fundamental concepts and tools of biostatistics, equipping you with the knowledge to embark on your bioinformatics journey.
+In the realm of [bioinformatics](240327-exploring-the-world-of-bioinformatics), where vast amounts of biological data are generated daily, the role of biostatistical tools cannot be overstated. These tools serve as the backbone of data analysis, enabling researchers to extract meaningful insights from complex datasets. For newcomers to the field of bioinformatics, understanding the basics of biostatistical tools is essential for navigating this exciting domain. In this article, we'll explore the fundamental concepts and tools of biostatistics, equipping you with the knowledge to embark on your bioinformatics journey.
 
 ### Understanding Biostatistics:
 
@@ -43,6 +43,8 @@ Biostatistics is the application of statistical methods to biological data. It e
 
 3. **Bioinformatics Tools and Platforms:**
    In addition to programming languages, bioinformatics researchers often utilize specialized software tools and platforms tailored for specific analysis tasks. These tools range from genome analysis software like BLAST and Bowtie to sequence alignment tools like Clustal Omega and MUSCLE. Familiarizing yourself with these tools and platforms is essential for conducting various bioinformatics analyses efficiently.
+
+> Read also: [Three Most Essential Programming Skills for Bioinformaticians and How to Master Them](240328-three-most-essential-skills-for-bioinformaticians) and [The Starting Points to Master Programming for Bioinformaticians](240328a-greatest-resources-to-learn-python-r-shell-scripting).
 
 ### Conclusion:
 
