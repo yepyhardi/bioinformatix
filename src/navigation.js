@@ -94,19 +94,19 @@ export const headerData = {
         },
         {
           text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
+          href: getPermalink('240327-exploring-the-world-of-bioinformatics', 'post'),
         },
-        {
-          text: 'Article (with MDX)',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
-        },
+        // {
+        //   text: 'Article (with MDX)',
+        //   href: getPermalink('markdown-elements-demo-post', 'post'),
+        // },
         {
           text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
+          href: getPermalink('basic', 'category'),
         },
         {
           text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
+          href: getPermalink('bioinformatics', 'tag'),
         },
       ],
     },
