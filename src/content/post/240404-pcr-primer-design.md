@@ -1,16 +1,16 @@
 ---
-publishDate: 2024-04-03T00:00:00Z
+publishDate: 2024-04-04T00:00:00Z
 author: Yepy Rustam
 title: "Mastering PCR Primer Design: A Step-by-Step Guide for Beginners"
 excerpt: With the right guidance and understanding of essential parameters, anyone can master the art of designing primers for both conventional and real-time PCR. In this tutorial, we provide a comprehensive step-by-step guide, covering key parameters to consider, threshold values for each parameter, and methods to evaluate primer efficiency.  
-image: '~/assets/images/240403_blog_picture.jpeg'
+image: '~/assets/images/240404_blog_picture.jpeg'
 category: Tutorial
 tags:
   - pcr primer design
   - bioinformatics
   - pcr
 metadata:
-  canonical: https://bioinformatix.netlify.app/240403-pcr-primer-design
+  canonical: https://bioinformatix.netlify.app/240404-pcr-primer-design
 ---
 
 Polymerase Chain Reaction (PCR) is a cornerstone technique in molecular biology, enabling the amplification of specific DNA sequences for various applications. The success of PCR largely depends on the design and specificity of primers, short DNA sequences that bind to complementary regions of the target DNA. In this tutorial, we will demystify the process of designing PCR primers, covering both conventional PCR and real-time PCR, and provide practical tips for primer evaluation.

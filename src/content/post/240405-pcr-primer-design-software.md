@@ -1,16 +1,16 @@
 ---
-publishDate: 2024-04-04T00:00:00Z
+publishDate: 2024-04-05T00:00:00Z
 author: Yepy Rustam
 title: "5 Popular Tools for PCR Primer Design and Analysis"
 excerpt: Explore five popular software packages and websites tailored for newcomers in bioinformatics. From feature-rich platforms to user-friendly interfaces, each tool offers unique capabilities, benefits, and considerations to consider.  
-image: '~/assets/images/240404_blog_picture.png'
+image: '~/assets/images/240405_blog_picture.png'
 category: Basic
 tags:
   - pcr primer design software
   - bioinformatics
   - pcr
 metadata:
-  canonical: https://bioinformatix.netlify.app/240404-pcr-primer-design-software
+  canonical: https://bioinformatix.netlify.app/240405-pcr-primer-design-software
 ---
 
 Polymerase chain reaction (PCR) primer design is a fundamental step in molecular biology research, enabling scientists to amplify specific DNA sequences for various applications. To streamline this process, specialized software packages and websites have been developed to assist researchers in designing and analyzing PCR primers efficiently. In this article, we highlight five popular tools that cater to the needs of newcomers in bioinformatics, providing essential features, user-friendly interfaces, and comprehensive analysis tools for PCR primer design and analysis.
