@@ -47,6 +47,6 @@ Bioinformatics databases, such as UniProt and NCBI Protein, provide comprehensiv
 
 Bioinformatics tools for sequence visualization, such as Jalview and CLC Sequence Viewer, enable researchers to visualize and analyze protein sequences in various formats. Sequence visualization tools facilitate the identification of sequence features, domains, and patterns within proteins, aiding in their functional annotation and analysis.
 
-# Conclusion
+***
 
 Protein primary structure serves as the foundation upon which the intricate three-dimensional architecture of proteins is built. By unraveling the linear sequence of amino acids, bioinformatics plays a crucial role in deciphering the structure, function, and evolution of proteins. Through the lens of bioinformatics, newcomers to the field of bioinformatics can gain insights into the fundamental principles underlying protein primary structure, paving the way for further exploration and discovery in the realm of molecular biology.

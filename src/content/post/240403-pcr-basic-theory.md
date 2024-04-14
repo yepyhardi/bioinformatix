@@ -3,7 +3,7 @@ publishDate: 2024-04-03T00:00:00Z
 author: Yepy Rustam
 title: "Mastering PCR: A Beginner's Guide to Theory and Practice"
 excerpt: PCR is a cornerstone technique in modern biotechnology. In this comprehensive guide, we delve into the theory and practice of PCR, demystifying its principles and providing practical tips for success. Whether you're a newcomer to the world of bioinformatics or a seasoned researcher seeking to enhance your skills, this article will equip you with the knowledge and confidence to master PCR with ease.  
-image: '~/assets/images/240403_blog_picture.png'
+image: '~/assets/images/240403_blog_picture.jpeg'
 category: Basic
 tags:
   - polymerase chain reaction
@@ -39,6 +39,6 @@ PCR has a wide range of applications in bioinformatics and molecular biology, in
 
 Despite its versatility, PCR can encounter challenges such as nonspecific amplification, primer-dimer formation, and contamination. Troubleshooting PCR reactions involves systematically identifying and addressing potential issues, such as optimizing primer design, adjusting reaction conditions, and implementing stringent laboratory practices to minimize contamination.
 
-# Conclusion
+***
 
 Polymerase Chain Reaction (PCR) is a transformative technique that has revolutionized molecular biology and bioinformatics. By understanding the theory and practice of PCR, researchers can harness its power to amplify specific DNA sequences, unravel genetic mysteries, and advance scientific knowledge. Whether you're embarking on your PCR journey or seeking to refine your skills, mastering the art of PCR opens doors to endless possibilities in the world of bioinformatics.

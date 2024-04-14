@@ -55,4 +55,6 @@ Multiplex Ligation-dependent Probe Amplification (MLPA) detects copy number vari
 
 Long-range PCR amplifies DNA fragments longer than those typically amplified by standard PCR, allowing the amplification of fragments up to several kilobases in length. This technique is valuable for applications such as whole genome amplification, gene mapping, and sequencing of large DNA fragments.
 
+***
+
 Specialized PCR techniques offer powerful tools for researchers to address complex questions in molecular biology with precision and efficiency. From quantitative PCR for precise quantification to loop-mediated isothermal amplification for rapid diagnostics, these advanced techniques expand the toolkit available to researchers, opening new avenues for discovery and innovation in molecular biology research.

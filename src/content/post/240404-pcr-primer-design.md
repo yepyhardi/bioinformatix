@@ -45,7 +45,7 @@ Polymerase Chain Reaction (PCR) is a cornerstone technique in molecular biology,
 
 **Optimization:** Fine-tune primer sequences and PCR conditions based on experimental results, such as adjusting annealing temperatures or primer concentrations to optimize PCR efficiency and specificity.
 
-# Conclusion
+***
 
 Designing PCR primers is a critical aspect of molecular biology research, and mastering this skill is essential for success in PCR-based experiments. By understanding key primer parameters, setting appropriate threshold values, and employing effective primer evaluation methods, newcomers in bioinformatics can design primers with confidence and accuracy. With practice and experimentation, you'll soon become proficient in PCR primer design, opening the door to a world of exciting molecular biology research possibilities.
 

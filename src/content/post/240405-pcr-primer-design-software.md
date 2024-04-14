@@ -65,7 +65,7 @@ Polymerase chain reaction (PCR) primer design is a fundamental step in molecular
 
 **Price and Availability:** SnapGene Primer Design is available as part of the SnapGene software suite, with pricing based on licensing options. Free trial versions are available for evaluation.
 
-# Conclusion
+***
 
 Choosing the right tool for PCR primer design and analysis is essential for researchers in molecular biology to efficiently design and optimize PCR experiments. Each of the five tools highlighted in this article offers unique features, advantages, and considerations to consider based on the specific needs and preferences of users. From free web-based tools to comprehensive software suites, newcomers in bioinformatics have a variety of options to explore and leverage in their PCR primer design and analysis workflows.
 

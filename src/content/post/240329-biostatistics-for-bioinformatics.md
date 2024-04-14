@@ -46,6 +46,6 @@ Biostatistics is the application of statistical methods to biological data. It e
 
 > Read also: [Three Most Essential Programming Skills for Bioinformaticians and How to Master Them](240328-three-most-essential-skills-for-bioinformaticians) and [The Starting Points to Master Programming for Bioinformaticians](240328a-greatest-resources-to-learn-python-r-shell-scripting).
 
-# Conclusion
+***
 
 In the vast landscape of bioinformatics, biostatistical tools serve as indispensable assets for researchers seeking to unravel the mysteries of life encoded in biological data. By mastering fundamental biostatistical concepts and leveraging powerful tools like R, Python, and specialized bioinformatics software, newcomers to bioinformatics can embark on a journey of discovery, unlocking insights into genetics, molecular biology, disease mechanisms, and beyond. With a solid foundation in biostatistics, the possibilities for exploration and innovation in bioinformatics are endless. So, equip yourself with the knowledge and tools of biostatistics, and embark on your bioinformatics adventure with confidence and curiosity.

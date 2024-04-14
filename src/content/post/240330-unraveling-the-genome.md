@@ -56,7 +56,7 @@ Bioinformatics plays a pivotal role in every aspect of genomic analysis, from da
 3. **Functional Genomics Analysis:**
    Bioinformatics tools for functional genomics analysis process and analyze high-throughput sequencing data, such as RNA-seq and ChIP-seq, to elucidate gene expression patterns, regulatory networks, and epigenetic modifications. These tools enable researchers to uncover the molecular mechanisms underlying biological processes and disease phenotypes.
 
-# Conclusion
+***
 
 Genomic analysis lies at the forefront of biological research, offering unprecedented insights into the genetic basis of life. With advancements in sequencing technologies and bioinformatics tools, researchers can unravel the complexities of the genome and its role in health, disease, and evolution. By understanding the principles and applications of genomic analysis, newcomers to bioinformatics can embark on a journey of discovery, contributing to the advancement of science and medicine in the genomic era.
 

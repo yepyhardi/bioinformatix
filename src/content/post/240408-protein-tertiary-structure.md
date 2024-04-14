@@ -45,4 +45,6 @@ Several bioinformatics tools and software are available for predicting protein t
 
 These tools employ a variety of algorithms and approaches to predict protein tertiary structure, allowing researchers to gain insights into protein function, interactions, and dynamics. AlphaFold, in particular, has garnered significant attention for its exceptional performance in accurately predicting protein structures, revolutionizing the field of structural biology.
 
+***
+
 Protein tertiary structure is a cornerstone of molecular biology, dictating the function, interactions, and activities of proteins in living organisms. By leveraging bioinformatics tools and techniques, researchers can predict and determine the intricate three-dimensional arrangements of proteins, unlocking new avenues for drug discovery, protein engineering, and understanding disease mechanisms.

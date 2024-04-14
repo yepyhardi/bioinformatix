@@ -66,4 +66,6 @@ JPred: A secondary structure prediction server that combines information from mu
 
 - **I-TASSER**: A protein structure prediction server that includes secondary structure prediction as part of its modeling pipeline.
 
+***
+
 Protein secondary structure prediction and determination are essential tasks in bioinformatics, providing valuable insights into protein function and structure. By understanding the principles of protein secondary structure and leveraging bioinformatics tools and software, researchers can elucidate the structural basis of protein function and design experiments to further explore protein-ligand interactions, protein folding, and disease mechanisms.

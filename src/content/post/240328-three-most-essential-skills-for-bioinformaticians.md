@@ -43,4 +43,6 @@ Proficiency in computer programming is an essential skill required in the world 
    - Practice writing shell scripts: Create scripts to automate repetitive tasks, such as data preprocessing or running bioinformatics tools.
    - Explore bioinformatics workflows: Study existing bioinformatics pipelines and scripts to understand how shell scripting is used in real-world applications.
 
+***
+
 By acquiring proficiency in Python, R, and shell scripting, aspiring bioinformaticians can enhance their ability to analyze biological data, develop computational solutions, and contribute to advancements in the field of bioinformatics. Remember that consistent practice, hands-on projects, and continuous learning are key to mastering these programming skills and becoming proficient in bioinformatics.

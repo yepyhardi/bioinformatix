@@ -85,7 +85,7 @@ DNA sequencing analysis lies at the heart of modern biological research, enablin
 
 **Price and Availability**: Benchling is available as a subscription-based service, with pricing based on the number of users and additional features. Free trial versions are available for evaluation.
 
-# Conclusion
+***
 
 Choosing the right software for DNA sequencing analysis is essential for researchers in bioinformatics to efficiently analyze, interpret, and visualize their data. Each of the seven software solutions highlighted in this article offers unique features, advantages, and considerations to consider based on the specific needs and preferences of users. From comprehensive commercial suites to open-source platforms and cloud-based solutions, newcomers in bioinformatics have a variety of options to explore and leverage in their DNA sequencing analysis workflows.
 
