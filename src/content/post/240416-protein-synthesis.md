@@ -24,14 +24,7 @@ Protein synthesis begins with the transcription of genetic information encoded w
 
 At the heart of translation lies the genetic code, a set of rules that dictates the correspondence between nucleotide triplets, known as codons, and the amino acids they encode. The genetic code is degenerate, meaning that most amino acids are specified by multiple codons, providing redundancy and robustness to the system. The codon table, also known as the genetic code table, serves as a key reference for deciphering the genetic code, with each codon mapping to a specific amino acid or signaling the start or stop of protein synthesis. For example, the codon AUG serves as the start codon, initiating protein synthesis, while UAA, UAG, and UGA serve as stop codons, signaling the termination of translation.
 
-| Codon   | Amino Acid | Codon   | Amino Acid | Codon   | Amino Acid | Codon   | Amino Acid |
-|---------|------------|---------|------------|---------|------------|---------|------------|
-| UUU/UUC | Phenylalanine | UCU/UCC/UCA/UCG | Serine | UAU/UAC | Tyrosine | UGU/UGC | Cysteine |
-| UUA/UUG | Leucine | UAA/UAG/UGA | Stop | UAA/UAG/UGA | Stop | UGG | Tryptophan |
-| CUU/CUC/CUA/CUG | Leucine | CCU/CCC/CCA/CCG | Proline | CAU/CAC | Histidine | CGU/CGC/CGA/CGG | Arginine |
-| AUU/AUC/AUA | Isoleucine | ACU/ACC/ACA/ACG | Threonine | AAU/AAC | Asparagine | AGU/AGC | Serine |
-| AUA/AUG | Methionine (Start) | AAA/AAG | Lysine | AGA/AGG | Arginine | UGU/UGC | Serine |
-| GUU/GUC/GUA/GUG | Valine | GCU/GCC/GCA/GCG | Alanine | GAU/GAC | Aspartic Acid | GGU/GGC/GGA/GGG | Glycine |
+![Codon Table by Mouagip - Codons aminoacids table.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5986132](~/assets/images/240416A_blog_picture.png)
 
 # Initiation of Translation
 
