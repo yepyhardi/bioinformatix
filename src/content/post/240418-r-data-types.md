@@ -17,18 +17,9 @@ metadata:
 
 R has several basic data types that are essential for any R programmer to understand. These data types include:
 
-- `Numeric`: These are the general numeric data type, which can be both integer and decimal.
-- `Integer`: This data type is used for integer values.
-- `Complex`: This data type is used for complex numbers.
-- `Character`: This data type is for text/string information.
-- `Logical`: This data type is for TRUE or FALSE (Boolean) values.
-- `Raw`: This data type is used for storing raw bytes of data.
-
-# Practical Usage of Each Data Type
-
 ## Numeric and Integer
 
-Numeric and Integer types are used frequently in R programming for calculations. They are crucial in bioinformatics data analysis, especially in computations involving gene sequencing data. For example:
+`Numeric` and `Integer` types are used frequently in R programming for calculations. `Numeric` are the general numeric data type, which can be both integer and decimal, while `Integer` data type is used for integer values. They are crucial in bioinformatics data analysis, especially in computations involving gene sequencing data. For example:
 
 ```
 # Define a numeric variable
@@ -50,7 +41,7 @@ z <- 3 + 2i
 
 ## Character
 
-Character data types are crucial in handling text data. In bioinformatics, this can be used in representing and manipulating DNA sequences. Example:
+Character data types are crucial in handling text data. This data type is for text/string information. In bioinformatics, this can be used in representing and manipulating DNA sequences. Example:
 
 ```
 # Define a character variable
