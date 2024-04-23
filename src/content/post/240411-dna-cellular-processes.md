@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Exploring DNA's Role in Key Cellular Processes"
 excerpt: Embark on a journey through the intricate dance of cellular processes, where DNA molecules orchestrate the symphony of life. From the replication of genetic information to the transcription of messenger RNA and the translation of proteins, DNA plays a central role in a myriad of essential cellular activities.  
 image: '~/assets/images/240411_blog_picture.png'
-category: Basic
+category: Molecular Biology
 tags:
   - dna replication
   - bioinformatics

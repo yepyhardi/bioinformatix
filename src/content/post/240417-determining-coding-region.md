@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Determining Coding Regions and Translating Them into Amino Acid Sequences"
 excerpt: Unlock the mysteries of DNA coding regions and embark on a journey into the fascinating world of genetic decoding. In this comprehensive tutorial, we'll guide you through the process of identifying coding regions within DNA sequences and translating them into the corresponding amino acid sequences. Using the powerful tools of R and Python programming languages, you'll gain the skills to unravel the genetic code and decipher the fundamental building blocks of life.  
 image: '~/assets/images/240417_blog_picture.png'
-category: Tutorial
+category: Bioinformatics
 tags:
   - dna coding region identification
   - genetic code

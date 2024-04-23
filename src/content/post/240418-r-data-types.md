@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Exploring Data Types in R Programming"
 excerpt: R is a powerful programming language that offers a wide variety of data types. These data types are fundamental to manipulating data and developing sophisticated algorithms in bioinformatics data analysis. In this blog post, we will cover the main data types in R and their implementations in bioinformatics.  
 image: '~/assets/images/240418_blog_picture.jpeg'
-category: Tutorial
+category: Programming
 tags:
   - r programming
   - bioinformatics

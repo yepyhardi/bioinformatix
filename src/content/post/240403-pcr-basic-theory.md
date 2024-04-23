@@ -4,11 +4,12 @@ author: Yepy Rustam
 title: "Mastering PCR: A Beginner's Guide to Theory and Practice"
 excerpt: PCR is a cornerstone technique in modern biotechnology. In this comprehensive guide, we delve into the theory and practice of PCR, demystifying its principles and providing practical tips for success. Whether you're a newcomer to the world of bioinformatics or a seasoned researcher seeking to enhance your skills, this article will equip you with the knowledge and confidence to master PCR with ease.  
 image: '~/assets/images/240403_blog_picture.jpeg'
-category: Basic
+category: Molecular Biology
 tags:
   - polymerase chain reaction
   - bioinformatics
   - pcr theory
+  - molecular biology
 metadata:
   canonical: https://bioinformatix.netlify.app/240403-pcr-basic-theory
 ---

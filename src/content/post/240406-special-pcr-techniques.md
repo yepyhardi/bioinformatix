@@ -4,11 +4,12 @@ author: Yepy Rustam
 title: "Exploring Special PCR Techniques: Unlocking Advanced Molecular Biology"
 excerpt: Delving into the realm of Polymerase Chain Reaction (PCR) unveils a myriad of specialized techniques that extend beyond conventional amplification methods. From quantitative PCR (qPCR) for precise quantification to allele-specific PCR for selective amplification, these advanced PCR techniques offer unique advantages for various applications in molecular biology.  
 image: '~/assets/images/240406_blog_picture.jpeg'
-category: Basic
+category: Molecular Biology
 tags:
   - special pcr techniques
   - molecular biology
   - pcr
+  - polymerase chain reaction
 metadata:
   canonical: https://bioinformatix.netlify.app/240406-special-pcr-techniques
 ---

@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Demystifying Biostatistical Tools for Bioinformatics Data Analysis"
 excerpt: In the vast realm of bioinformatics, understanding the basics of biostatistical tools is paramount for navigating the intricate landscape of biological data analysis. From descriptive statistics to inferential techniques, biostatistics forms the backbone of uncovering meaningful insights from complex datasets. 
 image: '~/assets/images/240329_blog_picture.jpg'
-category: Basic
+category: Programming
 tags:
   - bioinformatics
   - biostatistics

@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Decoding DNA: Unveiling the Molecular Blueprint of Life"
 excerpt: Enter the fascinating world of DNA, the molecule that holds the key to life itself. From its elegant double helix structure to its essential role in cellular function, DNA is a marvel of nature. In this comprehensive guide, we unravel the mysteries of DNA, exploring its molecular intricacies, cellular functions, and the pivotal role of bioinformatics in deciphering its wealth of information.  
 image: '~/assets/images/240409_blog_picture.png'
-category: Basic
+category: Molecular Biology
 tags:
   - dna structure
   - bioinformatics

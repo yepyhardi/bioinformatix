@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "7 All-in-One Software for DNA Sequencing Analysis"
 excerpt: Explore seven all-in-one software solutions designed to streamline DNA sequencing analysis for newcomers in bioinformatics. From feature-rich platforms to user-friendly interfaces, each software offers unique capabilities, benefits, and considerations to consider.  
 image: '~/assets/images/240402_blog_picture.jpeg'
-category: Basic
+category: Programming
 tags:
   - all-in-one bioinformatics software
   - bioinformatics

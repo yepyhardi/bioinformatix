@@ -4,11 +4,12 @@ author: Yepy Rustam
 title: "Exploring DNA Repair and Maintenance in Cellular Life"
 excerpt: Embark on a journey into the molecular guardianship of the cell, where intricate mechanisms tirelessly ensure the integrity and fidelity of the genetic blueprint. From the relentless onslaught of environmental damage to the occasional mishaps during DNA replication, DNA repair and maintenance processes stand as the frontline defenders against genomic instability.  
 image: '~/assets/images/240415_blog_picture.jpeg'
-category: Basic
+category: Molecular Biology
 tags:
   - dna repair mechanisms
   - genomic
-  - molecular biology
+  - dna
+  - bioinformatics
 metadata:
   canonical: https://bioinformatix.netlify.app/240415-dna-repair
 ---

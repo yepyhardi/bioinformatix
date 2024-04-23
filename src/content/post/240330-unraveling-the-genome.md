@@ -4,7 +4,7 @@ author: Yepy Rustam
 title: "Unraveling the Genome: A Beginner's Guide to Genomic Analysis"
 excerpt: In this article, we'll explore the definition and scope of genomic analysis, highlighting the latest technological advancements shaping the field. We'll also uncover the crucial role of bioinformatics in deciphering the complexities of genomic data, empowering newcomers to embark on their journey into the fascinating realm of genomics. 
 image: '~/assets/images/240330_blog_picture.jpg'
-category: Basic
+category: Molecular Biology
 tags:
   - genomic analysis
   - next-generation sequencing

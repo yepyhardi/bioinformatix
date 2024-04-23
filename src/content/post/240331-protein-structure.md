@@ -4,11 +4,11 @@ author: Yepy Rustam
 title: "Decoding the Blueprint: An Introduction to Protein Structure"
 excerpt: Diving into the fascinating world of proteins unveils a universe of complexity and functionality crucial for life as we know it. In this article, we embark on a journey to understand the basics of protein structure, exploring the intricate architecture that underpins their diverse functions.  
 image: '~/assets/images/240331_blog_picture.png'
-category: Basic
+category: Structural Biology
 tags:
   - protein structure
   - bioinformatics
-  - structural bioinformatics
+  - structural biology
 metadata:
   canonical: https://bioinformatix.netlify.app/240331-protein-structure
 ---

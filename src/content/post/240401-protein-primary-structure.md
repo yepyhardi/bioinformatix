@@ -4,11 +4,12 @@ author: Yepy Rustam
 title: "Unveiling the Foundation: Exploring Protein Primary Structure with Bioinformatics"
 excerpt: In this article, we delve into the essence of protein primary structure, unraveling the linear sequence of amino acids that forms the backbone of every protein. From the genetic code to bioinformatics tools, we explore the pivotal role of bioinformatics in deciphering and understanding the intricacies of protein primary structure.  
 image: '~/assets/images/240401_blog_picture.png'
-category: Basic
+category: Structural Biology
 tags:
   - protein primary structure
   - bioinformatics
   - amino acid sequence
+  - structural biology
 metadata:
   canonical: https://bioinformatix.netlify.app/240401-protein-primary-structure
 ---

@@ -4,12 +4,13 @@ author: Yepy Rustam
 title: Three Most Essential Programming Skills for Bioinformaticians and How to Master Them
 excerpt: Mastering programming skills is essential for success in the field of bioinformatics. Proficiency in Python, R, and shell scripting empowers bioinformaticians to analyze biological data, develop computational solutions, and contribute to groundbreaking discoveries.
 image: '~/assets/images/240328_blog_picture.jpg'
-category: Basic
+category: Programming
 tags:
   - bioinformatics
   - python
   - R
   - shell scripting
+  - programming
 metadata:
   canonical: https://bioinformatix.netlify.app/240328-top-three-essential-skills-for-bioinformaticians
 ---
