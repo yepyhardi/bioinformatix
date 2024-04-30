@@ -102,7 +102,7 @@ export const headerData = {
         // },
         {
           text: 'Category Page',
-          href: getPermalink('basic', 'category'),
+          href: getPermalink('bioinformatics', 'category'),
         },
         {
           text: 'Tag Page',
