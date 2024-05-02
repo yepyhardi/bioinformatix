@@ -1,0 +1,11 @@
+---
+import Layout from "~/layouts/PageLayout.astro";
+import SearchField from "~/components/SearchField.astro"; 
+const title = "Search | Bioinformatix"; 
+const description = "Search the website of Bioinformatix";
+---
+
+<Layout frontmatter.title={title} frontmatter.description={description}>
+  <h1>Search</h1>
+  <SearchField />
+</Layout>

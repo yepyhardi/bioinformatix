@@ -85,9 +85,9 @@ export const headerData = {
     //     },
     //   ],
     // },
-    {
-      text: 'Blog',
-      links: [
+    // {
+      // text: 'Blog',
+      // links: [
         {
           text: 'Blog List',
           href: getBlogPermalink(),
@@ -108,8 +108,12 @@ export const headerData = {
           text: 'Tag Page',
           href: getPermalink('bioinformatics', 'tag'),
         },
-      ],
-    },
+        {
+          text: 'Search',
+          href: getPermalink('search'),
+        },
+      // ],
+    // },
     // {
     //   text: 'Widgets',
     //   href: '#',

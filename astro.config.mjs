@@ -10,6 +10,7 @@ import partytown from '@astrojs/partytown';
 import icon from 'astro-icon';
 import compress from 'astro-compress';
 import tasks from './src/utils/tasks';
+import pagefind from "astro-pagefind";
 
 import { readingTimeRemarkPlugin, responsiveTablesRehypePlugin } from './src/utils/frontmatter.mjs';
 
@@ -74,6 +75,7 @@ export default defineConfig({
     }),
 
     tasks(),
+    pagefind(),
   ],
 
   image: {
