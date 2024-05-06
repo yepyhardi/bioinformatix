@@ -101,8 +101,13 @@ export const headerData = {
         //   href: getPermalink('markdown-elements-demo-post', 'post'),
         // },
         {
-          text: 'Category Page',
-          href: getPermalink('bioinformatics', 'category'),
+          text: 'Categories',
+          links: [
+            { 
+              text: 'Bioinformatics', 
+              href: getPermalink('bioinformatics', 'category'),
+            }
+          ]
         },
         {
           text: 'Tag Page',
