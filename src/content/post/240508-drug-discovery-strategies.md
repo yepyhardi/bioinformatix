@@ -61,7 +61,7 @@ Monoclonal antibodies, such as pembrolizumab and trastuzumab, have emerged as tr
 Drug discovery in the pharmaceutical industry is a complex and multifaceted process that requires interdisciplinary collaboration, innovative technologies, and rigorous scientific methodologies. By advancing our understanding of disease biology and leveraging cutting-edge tools and techniques, researchers continue to drive the development of novel therapeutics that improve patient outcomes and address unmet medical needs.
 
 **Further Reading:**
-- Druker, B. J., et al. (2001). "Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome." *New England Journal of Medicine.* DOI: [10.1056/nejmoa000009](https://doi.org/10.1056/nejmoa000009)
-- Weiner, L. M., et al. (2020). "Monoclonal antibodies: versatile platforms for cancer immunotherapy." *Nature Reviews Immunology.* DOI: [10.1038/s41577-020-0306-1](https://doi.org/10.1038/s41577-020-0306-1)
+- Druker, B. J., et al. (2001). "Activity of a specific inhibitor of the BCR-ABL tyrosine kinase in the blast crisis of chronic myeloid leukemia and acute lymphoblastic leukemia with the Philadelphia chromosome." *New England Journal of Medicine.* DOI: [10.1056/NEJM200104053441402](https://www.nejm.org/doi/full/10.1056/NEJM200104053441402)
+- Weiner, L. M., Surana, R., & Wang, S. (2010). Monoclonal antibodies: versatile platforms for cancer immunotherapy. *Nature reviews. Immunology, 10*(5), 317–327. [https://doi.org/10.1038/nri2744](https://doi.org/10.1038/nri2744)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/medicinal-packages-earthy-hill-medical-supplies-variety)*

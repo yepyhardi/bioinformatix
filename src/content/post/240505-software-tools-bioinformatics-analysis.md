@@ -46,22 +46,8 @@ Galaxy is an open-source platform for data-intensive biomedical research, includ
 
 BWA is a software package for mapping short DNA sequences to a reference genome. It is optimized for speed and accuracy, making it suitable for aligning NGS reads to large genomes with high sensitivity. BWA is widely used in applications such as variant calling, gene expression analysis, and metagenomic studies.
 
-## Case Studies: Real-world Applications
-
-### Case Study 1: Identification of Disease-Causing Mutations Using Variant Calling Software
-
-In a study published by Smith et al. (2023), researchers used variant calling software to analyze whole-genome sequencing data from patients with rare genetic disorders. By identifying disease-causing mutations in candidate genes, the researchers elucidated the molecular mechanisms underlying these disorders and provided valuable insights for diagnosis and treatment.
-
-### Case Study 2: Characterization of Microbial Communities in Environmental Samples Using Metagenomic Analysis Tools
-
-In another study by Johnson et al. (2022), metagenomic analysis tools were employed to study microbial communities in soil samples from contaminated sites. By analyzing metagenomic data, the researchers identified key microbial taxa and functional pathways involved in pollutant degradation, informing strategies for environmental remediation and ecosystem restoration.
-
 ## Conclusion
 
 The field of bioinformatics relies on a diverse array of software tools to analyze biological data and extract meaningful insights. From sequence analysis to structural biology and NGS data analysis, these tools empower researchers to unravel the complexities of biological systems and drive scientific discovery forward.
-
-**Further Reading:**
-- Smith, J., et al. (2023). "Identification of Disease-Causing Mutations Using Variant Calling Software." *Nature Genetics.* DOI: [10.1038/s41588-023-0456-7](https://doi.org/10.1038/s41588-023-0456-7)
-- Johnson, A., et al. (2022). "Characterization of Microbial Communities Using Metagenomic Analysis Tools." *Environmental Microbiology.* DOI: [10.1111/1462-2920.15718](https://doi.org/10.1111/1462-2920.15718)
 
 *Image credit: [Freepik AI image generator](https://www.freepik.com/ai/image-generator)*

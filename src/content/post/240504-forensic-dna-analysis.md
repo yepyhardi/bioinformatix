@@ -30,11 +30,11 @@ Forensic DNA databases, such as the Combined DNA Index System (CODIS), contain D
 
 ### Case Study 1: The Golden State Killer Investigation
 
-One of the most notable examples of forensic DNA analysis is the case of the Golden State Killer, who terrorized California in the 1970s and 1980s. Using DNA evidence collected from crime scenes, forensic investigators were able to create a DNA profile of the suspect. Decades later, advancements in forensic DNA analysis and genealogy databases enabled law enforcement to identify the perpetrator, bringing closure to the victims and their families.
+In Ray A. Wickenheiser's article "Forensic Genealogy, Bioethics, and the Golden State Killer Case," the author investigates the utilization of DNA forensic techniques within the context of the Golden State Killer case, highlighting the ethical considerations that accompany their application. Wickenheiser scrutinizes the intricate balance between the advancements in forensic genealogy and the ethical implications arising from their use in criminal investigations. The Golden State Killer case serves as a poignant example of the potential of DNA forensic techniques to solve long-standing cold cases, while simultaneously raising questions regarding privacy, consent, and the ethical boundaries of genetic surveillance. By examining the complexities of this high-profile case, Wickenheiser prompts readers to critically reflect on the ethical dilemmas inherent in leveraging DNA data for law enforcement purposes, fostering a broader conversation about the intersection of forensic science, bioethics, and privacy rights.
 
-### Case Study 2: Cold Case Resolution Using Familial DNA Searching
+### Case Study 2: the application of DNA forensic techniques
 
-In another case published by Murphy et al. (2021), forensic DNA analysis was instrumental in solving a cold case homicide. By conducting familial DNA searching, investigators identified a close relative of the perpetrator in the DNA database, leading to the arrest and conviction of the suspect. This groundbreaking technique allowed law enforcement to crack cases that had remained unsolved for years, highlighting the power of forensic DNA analysis in delivering justice.
+In "Forensic DNA Typing: Biology, Technology, and Genetics of STR Markers," authored by John M. Butler, the focus is on the application of DNA forensic techniques, particularly Short Tandem Repeat (STR) markers, in forensic investigations. The book delves into the biology, technology, and genetic principles underlying STR markers, providing a comprehensive overview of their use in forensic DNA typing. Butler explores the evolution of DNA typing methods, from early restriction fragment length polymorphism (RFLP) analysis to the more advanced polymerase chain reaction (PCR)-based techniques used today. By emphasizing the significance of STR markers in forensic science, Butler highlights their role in identifying individuals, solving criminal cases, and exonerating the innocent. This second edition serves as an essential resource for forensic scientists, researchers, and legal professionals seeking to understand the principles and applications of DNA forensic typing, contributing to advancements in forensic genetics and criminal justice.
 
 ## Challenges and Future Directions
 
@@ -45,7 +45,7 @@ Despite its successes, forensic DNA analysis faces challenges such as sample deg
 Forensic DNA analysis continues to evolve as a cornerstone of criminal investigations, providing crucial evidence and insights that lead to the identification and apprehension of perpetrators. By integrating cutting-edge genomics techniques with meticulous investigative work, forensic scientists play a pivotal role in ensuring justice and public safety.
 
 **Further Reading:**
-- Murphy, E., et al. (2021). "Cold Case Resolution Using Familial DNA Searching." *Forensic Science International: Genetics.* DOI: [10.1016/j.fsigen.2020.102526](https://doi.org/10.1016/j.fsigen.2020.102526)
-- Butler, J. M. (2015). "Forensic DNA Typing: Biology, Technology, and Genetics of STR Markers." *Elsevier.* [Link](https://www.elsevier.com/books/forensic-dna-typing/butler/978-0-12-800971-3)
+- Wickenheiser R. A. (2019). Forensic genealogy, bioethics and the Golden State Killer case. Forensic science international. Synergy, 1, 114–125. DOI: [10.1016/j.fsisyn.2019.07.003](https://doi.org/10.1016/j.fsisyn.2019.07.003)
+- Butler, J. M. (2004). "Forensic DNA Typing: Biology, Technology, and Genetics of STR Markers." *Elsevier.* [Link](https://shop.elsevier.com/books/forensic-dna-typing/butler/978-0-08-047061-0)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/comprehensive-guide-understanding-dna-solving-crimes)*

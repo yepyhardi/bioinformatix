@@ -40,18 +40,18 @@ Genomic biomarkers derived from cancer genomics data provide valuable informatio
 
 ### Case Study 1: Genomic Profiling of Non-Small Cell Lung Cancer (NSCLC)
 
-In a study by Garraway et al. (2023), researchers performed comprehensive genomic profiling of NSCLC tumors to identify actionable genetic alterations and guide targeted therapy selection. By matching patients with appropriate targeted therapies based on their genomic profiles, the study demonstrated improved clinical outcomes and prolonged survival in NSCLC patients.
+In an article published in MD-Journal provides a comprehensive overview of genomic profiling in non-small cell lung cancer (NSCLC) and its implications for clinical management. It highlights the importance of molecular profiling in guiding treatment decisions, particularly in the era of precision medicine. The authors discuss the role of genomic alterations, such as EGFR mutations, ALK rearrangements, and ROS1 fusions, in driving NSCLC tumorigenesis and their significance as therapeutic targets. Additionally, the article addresses the challenges associated with genomic testing, including tissue availability, test selection, and interpretation of results. Overall, the article emphasizes the importance of integrating genomic profiling into routine clinical practice to optimize treatment outcomes for patients with NSCLC.
 
 ### Case Study 2: Integrative Analysis of Breast Cancer Subtypes
 
-In another study by Curtis et al. (2021), integrative analysis of breast cancer subtypes revealed distinct genomic features and molecular subgroups associated with different clinical outcomes. By characterizing the genomic landscape of breast cancer, the study provided insights into tumor heterogeneity and potential therapeutic vulnerabilities across molecular subtypes.
+In the groundbreaking study "Integrative Analysis of Breast Cancer Reveals Prognostic Haematopoietic Activity and Patient-Specific Immune Response Profiles" published in Nature Communications, Varn et al. present a comprehensive analysis of breast cancer that sheds light on prognostic factors and patient-specific immune responses. Through integrative genomic and transcriptomic profiling, the researchers identified distinct patterns of haematopoietic activity within the tumor microenvironment, offering insights into the immune landscape of breast cancer. Their findings suggest that these immune profiles may serve as prognostic markers for patient outcomes. By unraveling the complex interplay between tumor cells and the immune system, this study paves the way for personalized approaches to breast cancer treatment and highlights the potential of immunotherapy strategies in improving patient survival.
 
 ## Conclusion
 
 Cancer genomics has transformed our understanding of tumor biology and revolutionized cancer care by providing insights into the genetic drivers of cancer and identifying novel therapeutic targets. By leveraging genomic data, researchers and clinicians can develop more effective treatment strategies and improve patient outcomes in the fight against cancer.
 
 **Further Reading:**
-- Garraway, L., et al. (2023). "Comprehensive Genomic Profiling of Non-Small Cell Lung Cancer." *Nature Medicine.* DOI: [10.1038/nm.4481](https://doi.org/10.1038/nm.4481)
-- Curtis, C., et al. (2021). "Integrative Analysis of Breast Cancer Subtypes." *Nature.* DOI: [10.1038/nature11412](https://doi.org/10.1038/nature11412)
+- Bhattarai, Abhinav BSc; Shah, Sangam MBBS,* ; Abu Serhan, Hashem MD; Sah, Ranjit MD; Sah, Sanjit MD. Genomic profiling for non-small cell lung cancer: Clinical relevance in staging and prognosis. Medicine 102(47):p e36003, November 24, 2023. DOI: [10.1097/MD.0000000000036003](https://doi.org/10.1097/MD.0000000000036003) 
+- Varn, F., Andrews, E., Mullins, D. et al. Integrative analysis of breast cancer reveals prognostic haematopoietic activity and patient-specific immune response profiles. Nat Commun 7, 10248 (2016). DOI: [10.1038/ncomms10248](https://doi.org/10.1038/ncomms10248)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/abstract-cancer-detection-through-nature-innovative-medical-science)*

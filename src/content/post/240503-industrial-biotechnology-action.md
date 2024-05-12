@@ -37,11 +37,11 @@ Industrial biotechnology contributes to environmental remediation by harnessing 
 
 ### Case Study 1: Enzymatic Hydrolysis of Lignocellulosic Biomass for Biofuel Production
 
-A study by Smith et al. (2022) demonstrated the enzymatic hydrolysis of lignocellulosic biomass using engineered enzymes for the production of bioethanol. By optimizing enzyme cocktails and reaction conditions, the researchers achieved high yields of fermentable sugars from agricultural residues, such as corn stover and switchgrass, facilitating the commercial-scale production of cellulosic biofuels.
+In the article "Enzymatic Hydrolysis of Lignocellulosic Biomass" authored by Jonathan J. Stickel, Richard T. Elander, James D. Mcmillan, and Roman Brunecky, the focus lies on the enzymatic breakdown of lignocellulosic biomass, a crucial step in the production of biofuels and other bioproducts. The authors delve into the enzymatic processes involved in breaking down the complex structure of lignocellulose, which consists of cellulose, hemicellulose, and lignin. They explore various enzymatic strategies, including the use of cellulases, hemicellulases, and accessory enzymes, to efficiently hydrolyze biomass into fermentable sugars. Additionally, the article discusses factors influencing enzymatic hydrolysis efficiency, such as substrate characteristics, enzyme activity, and process conditions. By providing insights into the enzymatic mechanisms driving biomass conversion, Stickel et al. contribute to advancing biofuel production technologies and optimizing biorefinery processes for sustainable bioenergy production.
 
 ### Case Study 2: Production of Insulin Biosimilars Using Recombinant DNA Technology
 
-In a study published by Li et al. (2023), recombinant DNA technology was employed to produce insulin biosimilars in microbial expression systems. By expressing insulin genes in engineered yeast strains, the researchers achieved high levels of insulin production, meeting the demand for affordable and accessible diabetes treatments in low-resource settings.
+In the article "The Emergence of Biosimilar Insulin Preparations--A Cause for Concern?" by Owens et al., published in Diabetes Technology & Therapeutics, the authors delve into the rising prominence of biosimilar insulin products, particularly concerning the utilization of DNA recombinant technology. Biosimilar insulins, which mimic the structure and function of existing insulin formulations, have gained traction in the pharmaceutical landscape due to their potential for cost savings and increased access to essential diabetes treatments. However, Owens and colleagues highlight concerns regarding the complex nature of biosimilar production, particularly the use of DNA recombinant technology to engineer insulin analogs. They discuss potential implications such as variability in product quality, immunogenicity, and safety profiles, raising questions about regulatory oversight and the need for comprehensive evaluation strategies. By emphasizing the role of DNA recombinant technology in biosimilar insulin development, the authors contribute to ongoing discussions surrounding the safety, efficacy, and regulatory considerations of these emerging pharmaceutical products in diabetes management.
 
 ## Challenges and Future Directions
 
@@ -52,7 +52,8 @@ Industrial biotechnology faces challenges related to process optimization, regul
 Industrial biotechnology continues to drive innovation and transform industries, offering sustainable solutions to global challenges. By integrating scientific advances with industrial practices, industrial biotechnology holds the promise of a more sustainable and prosperous future for humanity.
 
 **Further Reading:**
-- Smith, J., et al. (2022). "Enzymatic Hydrolysis of Lignocellulosic Biomass for Biofuel Production." *Bioresource Technology.* DOI: [10.1016/j.biortech.2022.115789](https://doi.org/10.1016/j.biortech.2022.115789)
-- Li, Q., et al. (2023). "Production of Insulin Biosimilars Using Recombinant DNA Technology." *Journal of Biotechnology.* DOI: [10.1016/j.jbiotec.2023.01.001](https://doi.org/10.1016/j.jbiotec.2023.01.001)
+
+- Stickel, J.J., Elander, R.T., Mcmillan, J.D. and Brunecky, R. (2014). Enzymatic Hydrolysis of Lignocellulosic Biomass. In Bioprocessing of Renewable Resources to Commodity Bioproducts (eds V.S. Bisaria and A. Kondo). DOI: [10.1002/9781118845394.ch4](https://doi.org/10.1002/9781118845394.ch4)
+- Owens, D. R., Landgraf, W., Schmidt, A., Bretzel, R. G., & Kuhlmann, M. K. (2012). The emergence of biosimilar insulin preparations--a cause for concern?. Diabetes technology & therapeutics, 14(11), 989–996. DOI: [10.1089/dia.2012.0105](https://doi.org/10.1089/dia.2012.0105)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/recycling-used-cooking-oil-eco-friendly-scenario)*
