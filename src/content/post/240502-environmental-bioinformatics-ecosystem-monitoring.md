@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-02T00:00:00Z
-author: Yepy Rustam
+
 title: "Insights from Bytes: Environmental Bioinformatics in Ecosystem Monitoring"
 excerpt: Dive into the realm of environmental bioinformatics, where advanced computational tools and data analysis techniques provide invaluable insights into ecosystem dynamics and environmental health.
 image: '~/assets/images/240502_blog_picture.jpeg'

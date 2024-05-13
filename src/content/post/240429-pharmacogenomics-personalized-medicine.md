@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-29T00:00:00Z
-author: Yepy Rustam
+
 title: "Unlocking the Power of Genetics: Pharmacogenomics in Personalized Medicine"
 excerpt: Explore the revolutionary field of pharmacogenomics, where genomic data guides the selection and dosing of medications to optimize therapeutic outcomes and minimize adverse drug reactions.
 image: '~/assets/images/240429_blog_picture.jpeg'
@@ -46,8 +46,8 @@ Despite its promise, pharmacogenomics faces challenges related to data interpret
 As we embark on the era of personalized medicine, pharmacogenomics emerges as a powerful tool for optimizing drug therapy and improving patient care. By harnessing the power of genetics to individualize treatment regimens, pharmacogenomics empowers clinicians to deliver safer, more effective medications tailored to each patient's unique genetic profile, ushering in a new era of precision medicine and patient-centered care.
 
 **Further Reading:**
-- [Pharmacogenomics: From Bench to Bedside](https://www.nature.com/articles/nrc2040)
-- [Pharmacogenomics in Clinical Practice: Challenges and Opportunities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4078206/)
-- [Pharmacogenomics: Integrating Genomic Data into Drug Development](https://www.sciencedirect.com/science/article/pii/S1359644617301864)
+- Weinshilboum, R., Wang, L. Pharmacogenomics: bench to bedside. Nat Rev Drug Discov 3, 739–748 (2004). DOI: [10.1038/nrd1497](https://doi.org/10.1038/nrd1497)
+- Bienfait, K., Chhibber, A., Marshall, JC. et al. Current challenges and opportunities for pharmacogenomics: perspective of the Industry Pharmacogenomics Working Group (I-PWG). Hum Genet 141, 1165–1173 (2022). DOI: [10.1007/s00439-021-02282-3](https://doi.org/10.1007/s00439-021-02282-3)
+- Oates, J. T., & Lopez, D. (2018). Pharmacogenetics: An Important Part of Drug Development with A Focus on Its Application. International journal of biomedical investigation, 1(2), 111. DOI: [10.31531/2581-4745.1000111](https://doi.org/10.31531/2581-4745.1000111)
 
 *Image credit: [Generated with AI](https://www.bing.com/images/create/image-representing-personalised-medicine-through-g/1-663855668b2d42f5bbba99734001d049?id=5e2G6cjrj%2bJFHEsxZCgbwg%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.PuLw20Z0V0dd6b6LDSE9&FORM=GCRIDP&mode=overlay)*

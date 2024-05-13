@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-22T00:00:00Z
-author: Yepy Rustam
+
 title: "Metabolomics: Unraveling Metabolic Pathways"
 excerpt: Embark on a journey through the intricate world of metabolomics, where molecules become the protagonists in the narrative of life's metabolic symphony.
 image: '~/assets/images/240422_blog_picture.png'
@@ -57,11 +57,11 @@ As we navigate the frontiers of metabolomics, we are poised at the precipice of 
 
 **References:**
 
-1. Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006;78(3):779-787. doi:10.1021/ac051437y
-2. Wishart DS, Tzur D, Knox C, et al. HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007;35(Database issue):D521-D526. doi:10.1093/nar/gkl923
-3. Nicholson JK, Lindon JC. Systems biology: metabonomics. Nature. 2008;455(7216):1054-1056. doi:10.1038/4551054a
-4. Xia J, Wishart DS. Metabolomic data processing, analysis, and interpretation using MetaboAnalyst. Curr Protoc Bioinformatics. 2011;34:14.10.1-14.10.48. doi:10.1002/0471250953.bi1410s34
+1. Smith CA, Want EJ, O'Maille G, Abagyan R, Siuzdak G. XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Anal Chem. 2006;78(3):779-787. doi:[10.1021/ac051437y](https://doi.org/10.1021/ac051437y)
+2. Wishart DS, Tzur D, Knox C, et al. HMDB: the Human Metabolome Database. Nucleic Acids Res. 2007;35(Database issue):D521-D526. doi:[10.1093/nar/gkl923](https://doi.org/10.1093/nar/gkl923)
+3. Nicholson JK, Lindon JC. Systems biology: metabonomics. Nature. 2008;455(7216):1054-1056. doi:[10.1038/4551054a](https://doi.org/10.1038/4551054a)
+4. Xia J, Wishart DS. Metabolomic data processing, analysis, and interpretation using MetaboAnalyst. Curr Protoc Bioinformatics. 2011;34:14.10.1-14.10.48. doi:[10.1002/0471250953.bi1410s34](https://doi.org/10.1002/0471250953.bi1410s34)
 5. Bouatra S, Aziat F, Mandal R, et al. The human urine metabolome. PLoS One. 2013;8(9):e73076. doi:10.1371/journal.pone.0073076
-6. Fernie AR, Trethewey RN, Krotzky AJ, Willmitzer L. Metabolite profiling: from diagnostics to systems biology. Nat Rev Mol Cell Biol. 2004;5(9):763-769. doi:10.1038/nrm1451
+6. Fernie AR, Trethewey RN, Krotzky AJ, Willmitzer L. Metabolite profiling: from diagnostics to systems biology. Nat Rev Mol Cell Biol. 2004;5(9):763-769. doi:[10.1038/nrm1451](https://doi.org/10.1038/nrm1451)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/algal-cell-bacteria-interacting-exchange-micro-metabolites)*

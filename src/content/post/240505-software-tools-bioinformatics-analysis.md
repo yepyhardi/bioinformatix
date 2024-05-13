@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-05T00:00:00Z
-author: Yepy Rustam
+
 title: "Unleashing the Power of Data: Software Tools for Bioinformatics Analysis"
 excerpt: Discover the essential software tools used in bioinformatics analysis, empowering researchers to extract meaningful insights from biological data and drive scientific discovery.
 image: '~/assets/images/240505_blog_picture.jpeg'

@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-21T00:00:00Z
-author: Yepy Rustam
+
 title: "Proteomics Techniques and Applications"
 excerpt: Delve into the world of proteomics, exploring the diverse array of techniques and applications that unlock the secrets of proteins in biological systems.
 image: '~/assets/images/240421_blog_picture.png'

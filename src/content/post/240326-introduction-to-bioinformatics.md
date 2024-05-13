@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-03-26T00:00:00Z
-author: Yepy Rustam
+
 title: "Introduction to Bioinformatics: Bridging Biology and Computer Science"
 excerpt: Discover the fundamentals of bioinformatics, a dynamic field at the intersection of biology and computer science, unlocking insights into biological data through computational analysis.
 image: '~/assets/images/240326_blog_picture.jpeg'

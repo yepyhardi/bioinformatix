@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-16T00:00:00Z
-author: Yepy Rustam
+
 title: "Decoding the Language of Life: Protein Synthesis"
 excerpt: "Deep dive into the molecular machinery that translates the genetic code into the building blocks of life: proteins. From the triplet codons of DNA and RNA to the intricate ribosomal assembly line, the process of translation lies at the heart of gene expression, orchestrating the synthesis of functional proteins essential for cellular function."  
 image: '~/assets/images/240416_blog_picture.png'

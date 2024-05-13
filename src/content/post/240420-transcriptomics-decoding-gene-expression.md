@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-20T00:00:00Z
-author: Yepy Rustam
+
 title: "Transcriptomics: Decoding Gene Expression Patterns"
 excerpt: Discover how transcriptomics unveils the intricate language of gene expression, bridging biology and computer science to decode the secrets of life.
 image: '~/assets/images/240420_blog_picture.jpeg'

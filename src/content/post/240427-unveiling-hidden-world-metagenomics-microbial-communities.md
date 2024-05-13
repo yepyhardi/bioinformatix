@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-27T00:00:00Z
-author: Yepy Rustam
+
 title: "Unveiling the Hidden World: Metagenomics and Microbial Communities"
 excerpt: Embark on a journey through the microscopic universe of metagenomics, where cutting-edge sequencing technologies and computational analyses illuminate the diversity and dynamics of microbial communities.
 image: '~/assets/images/240427_blog_picture.png'
@@ -50,11 +50,11 @@ As metagenomics continues to evolve, challenges such as data integration, standa
 As we peer into the microbial cosmos through the lens of metagenomics, we marvel at the diversity, complexity, and interconnectedness of microbial life forms that shape our planet's ecosystems and influence human health and well-being. By unraveling the secrets of microbial communities, metagenomics empowers us to explore new frontiers in environmental science, medicine, and biotechnology, unlocking the potential of microbial biodiversity for the benefit of humanity.
 
 **Further Reading:**
-- [Metagenomics: Uncovering the Microbial Universe](https://www.nature.com/scitable/topicpage/metagenomics-14080495/)
-- [The Human Microbiome Project](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053813/)
-- [Metagenomics: A Guide from Sampling to Data Analysis](https://www.frontiersin.org/articles/10.3389/fmicb.2021.734169/full)
-- [Metagenomics: Advances and Challenges in the Era of Single-Cell Sequencing](https://www.nature.com/articles/s41576-021-00393-3)
-- [Environmental Metagenomics: Exploring Microbial Diversity and Functionality in Nature](https://www.sciencedirect.com/science/article/pii/S0966842X17300141)
-- [Metagenomics in Agriculture: Applications and Implications for Crop Improvement](https://www.frontiersin.org/articles/10.3389/fmicb.2018.03186/full)
+- Agustinho, D.P., Fu, Y., Menon, V.K. et al. Unveiling microbial diversity: harnessing long-read sequencing technology. Nat Methods (2024). DOI: [10.1038/s41592-024-02262-1](https://doi.org/10.1038/s41592-024-02262-1)
+- NIH HMP Working Group, Peterson, J., Garges, S., Giovanni, M., McInnes, P., Wang, L., Schloss, J. A., Bonazzi, V., McEwen, J. E., Wetterstrand, K. A., Deal, C., Baker, C. C., Di Francesco, V., Howcroft, T. K., Karp, R. W., Lunsford, R. D., Wellington, C. R., Belachew, T., Wright, M., Giblin, C., … Guyer, M. (2009). The NIH Human Microbiome Project. Genome research, 19(12), 2317–2323. [10.1101/gr.096651.109](https://doi.org/10.1101/gr.096651.109)
+- Thomas, T., Gilbert, J., & Meyer, F. (2012). Metagenomics - a guide from sampling to data analysis. Microbial informatics and experimentation, 2(1), 3. [10.1186/2042-5783-2-3](https://doi.org/10.1186/2042-5783-2-3)
+- Xu, Y., & Zhao, F. (2018). Single-cell metagenomics: challenges and applications. Protein & cell, 9(5), 501–510. DOI: [10.1007/s13238-018-0544-5](https://doi.org/10.1007/s13238-018-0544-5)
+- Nam, N. N., Do, H. D. K., Loan Trinh, K. T., & Lee, N. Y. (2023). Metagenomics: An Effective Approach for Exploring Microbial Diversity and Functions. Foods (Basel, Switzerland), 12(11), 2140. DOI: [10.3390/foods12112140](https://doi.org/10.3390/foods12112140)
+- Nwachukwu BC and Babalola OO (2022) Metagenomics: A Tool for Exploring Key Microbiome With the Potentials for Improving Sustainable Agriculture. Front. Sustain. Food Syst. 6:886987. doi: [10.3389/fsufs.2022.886987](https://doi.org/10.3389/fsufs.2022.886987)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/incredible-microscopic-m-formed-diverse-organisms)*

@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-26T00:00:00Z
-author: Yepy Rustam
-title: "Unraveling the Genome's Secrets: An Introduction to Functional Genomics"
+
+title: "An Introduction to Functional Genomics"
 excerpt: Embark on a journey into the intricate world of functional genomics, where cutting-edge technologies and computational analyses shed light on the functions and interactions of genes in living organisms.
 image: '~/assets/images/240426_blog_picture.jpg'
 category: Functional Genomics
@@ -12,7 +12,7 @@ tags:
   - proteomics
   - bioinformatics
 metadata:
-  canonical: https://bioinformatix.netlify.app/240426-unraveling-genomes-secrets-introduction-functional-genomics
+  canonical: https://bioinformatix.netlify.app/240426-introduction-functional-genomics
 ---
 
 Functional genomics represents a paradigm shift in our understanding of the genome, focusing not only on the sequences of genes but also on their functions, interactions, and regulatory mechanisms. In this introductory exploration of functional genomics, we delve into the principles, methodologies, and applications that underpin the study of gene function in the context of complex biological systems.
@@ -50,6 +50,6 @@ As functional genomics continues to evolve, challenges such as data integration,
 As we peer into the molecular machinery of life through the lens of functional genomics, we gain a deeper appreciation for the intricate interplay between genes, proteins, and biological processes that underpin the diversity of life forms on Earth. By unraveling the genome's secrets, functional genomics empowers us to decipher the language of genes and unlock the mysteries of life's complexity for the betterment of humanity.
 
 **Further Reading:**
-- [Introduction to Functional Genomics](https://www.nature.com/scitable/topicpage/functional-genomics-443/)
+- Functional genomics. *Nature* **405**, 819 (2000). DOI: [10.1038/35015738](https://doi.org/10.1038/35015738)
 
 *Photo by [Aleksandr Popov](https://unsplash.com/@5tep5?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-very-tall-building-in-the-middle-of-a-foggy-sky-eXoXJrOGqG4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

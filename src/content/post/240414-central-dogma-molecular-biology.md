@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-14T00:00:00Z
-author: Yepy Rustam
+
 title: "The Central Dogma of Molecular Biology: Deciphering the Blueprint of Life"
 excerpt: Explore the cornerstone of molecular biology, known as the Central Dogma, which elucidates the flow of genetic information within living organisms. From the faithful replication of DNA to the transcription of RNA and the translation of proteins, the Central Dogma serves as a guiding principle for understanding the fundamental processes that govern life.  
 image: '~/assets/images/240414_blog_picture.png'

@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-06T00:00:00Z
-author: Yepy Rustam
+
 title: "Empowering the Future: Introduction to Bioinformatics Education"
 excerpt: Explore the dynamic field of bioinformatics education, where interdisciplinary learning merges biology and computer science to address complex biological questions.
 image: '~/assets/images/240506_blog_picture.jpeg'

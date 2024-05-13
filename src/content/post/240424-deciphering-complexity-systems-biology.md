@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-24T00:00:00Z
-author: Yepy Rustam
+
 title: "Deciphering the Complexity: Systems Biology in Action"
 excerpt: Explore the captivating realm of systems biology, where computational modeling and biological insights converge to unravel the intricate networks governing life's processes.
 image: '~/assets/images/240424_blog_picture.jpeg'

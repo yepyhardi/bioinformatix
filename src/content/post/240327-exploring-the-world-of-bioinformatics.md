@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-03-27T00:00:00Z
-author: Yepy Rustam
+
 title: "Unraveling the Code of Life: Exploring the World of Bioinformatics"
 excerpt: In the fast-paced realm of modern science, bioinformatics emerges as a beacon of innovation and discovery. Combining biology, computer science, and mathematics, bioinformatics plays a pivotal role in deciphering the intricate codes of life itself. 
 image: '~/assets/images/240327_blog_picture.jpg'

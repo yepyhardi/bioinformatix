@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-07T00:00:00Z
-author: Yepy Rustam
+
 title: "Deciphering Protein Secondary Structure"
 excerpt: Understanding protein secondary structure is crucial for deciphering protein function and interactions. In this article, we delve into the fundamentals of protein secondary structure and explore how bioinformatics tools and software predict and determine the secondary structure of proteins, empowering newcomers in bioinformatics to navigate this fascinating field with confidence.  
 image: '~/assets/images/240407_blog_picture.png'

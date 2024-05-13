@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-08T00:00:00Z
-author: Yepy Rustam
+
 title: "Unraveling Protein Tertiary Structure: Insights from Bioinformatics"
 excerpt: Step into the intricate world of protein structure, where bioinformatics serves as a guiding light in deciphering the complexities of tertiary structure. From predicting protein folding patterns to determining three-dimensional arrangements, bioinformatics tools play a crucial role in unraveling the mysteries of protein tertiary structure.  
 image: '~/assets/images/240408_blog_picture.png'

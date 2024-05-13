@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-13T00:00:00Z
-author: Yepy Rustam
+
 title: "DNA Transcription: Unraveling the Cellular Process of Genetic Expression"
 excerpt: DNA transcription process, where the genetic code encoded within DNA molecules is transformed into functional RNA molecules. From the bustling confines of the cell nucleus to the orchestrated dance of RNA polymerase enzymes, DNA transcription is a fundamental cellular process that lies at the heart of gene expression and regulation.  
 image: '~/assets/images/240413_blog_picture.jpeg'

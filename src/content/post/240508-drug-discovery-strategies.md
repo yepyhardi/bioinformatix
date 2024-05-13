@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-08T00:00:00Z
-author: Yepy Rustam
+
 title: "Unraveling the Science: Drug Discovery Strategies in the Pharmaceutical Industry"
 excerpt: Explore the intricate world of drug discovery strategies in the pharmaceutical industry, from target identification to clinical development, and uncover the scientific innovations driving the development of new therapeutics.
 image: '~/assets/images/240508_blog_picture.png'

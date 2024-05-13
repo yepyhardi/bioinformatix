@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-28T00:00:00Z
-author: Yepy Rustam
+
 title: "Bridging the Gap: Clinical Bioinformatics in Genomic Medicine"
 excerpt: Explore the intersection of genomics and medicine with clinical bioinformatics, where advanced computational techniques and genomic data analysis revolutionize healthcare delivery and personalized medicine.
 image: '~/assets/images/240428_blog_picture.jpeg'
@@ -46,8 +46,8 @@ Despite its transformative potential, clinical bioinformatics faces challenges r
 As we navigate the evolving landscape of genomic medicine, clinical bioinformatics emerges as a cornerstone in harnessing the power of genomics to improve patient care and advance precision medicine. By bridging the gap between genomic data and clinical insights, clinical bioinformatics empowers clinicians to make informed decisions tailored to individual patients' genetic makeup, ushering in a new era of personalized healthcare.
 
 **Further Reading:**
-- [Clinical Bioinformatics: Challenges and Opportunities](https://www.frontiersin.org/articles/10.3389/fgene.2020.00065/full)
-- [Genomic Medicine: Applications and Implications for Healthcare](https://www.nature.com/articles/s41591-019-0668-6)
-- [The Role of Clinical Bioinformatics in Precision Medicine](https://academic.oup.com/bib/article/20/4/1233/4974779)
+- Bellazzi R, Masseroli M, Murphy S, Shabo A, Romano P. Clinical Bioinformatics: challenges and opportunities. BMC Bioinformatics. 2012;13 Suppl 14(Suppl 14):S1. doi: [10.1186/1471-2105-13-S14-S1](https://doi.org/10.1186/1471-2105-13-S14-S1). Epub 2012 Sep 7. PMID: 23095472; PMCID: PMC3439676.
+- Pattan, V., Kashyap, R., Bansal, V., Candula, N., Koritala, T., & Surani, S. (2021). Genomics in medicine: A new era in medicine. World journal of methodology, 11(5), 231–242. DOI: [10.5662/wjm.v11.i5.231](https://doi.org/10.5662/wjm.v11.i5.231)
+- Tang, A., Woldemariam, S., Roger, J., & Sirota, M. (2022). Translational Bioinformatics to Enable Precision Medicine for All: Elevating Equity across Molecular, Clinical, and Digital Realms. Yearbook of medical informatics, 31(1), 106–115. DOI: [10.1055/s-0042-1742513](https://doi.org/10.1055/s-0042-1742513)
 
 *Image credit: [Generated with AI](https://www.bing.com/images/create/image-representing-personalised-medicine-through-g/1-663855668b2d42f5bbba99734001d049?id=5e2G6cjrj%2bJFHEsxZCgbwg%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.PuLw20Z0V0dd6b6LDSE9&FORM=GCRIDP&mode=overlay)*

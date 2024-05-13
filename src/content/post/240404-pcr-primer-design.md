@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-04T00:00:00Z
-author: Yepy Rustam
+
 title: "Mastering PCR Primer Design: A Step-by-Step Guide for Beginners"
 excerpt: With the right guidance and understanding of essential parameters, anyone can master the art of designing primers for both conventional and real-time PCR. In this tutorial, we provide a comprehensive step-by-step guide, covering key parameters to consider, threshold values for each parameter, and methods to evaluate primer efficiency.  
 image: '~/assets/images/240404_blog_picture.jpeg'

@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-10T00:00:00Z
-author: Yepy Rustam
+
 title: "A Deep Dive into DNA Structure"
 excerpt: Embark on a journey into the heart of DNA, where the intricate molecular structure holds the key to life's mysteries. From its iconic double helix configuration to the chemical composition of its building blocks, DNA's structural elegance is a testament to nature's brilliance. In this detailed exploration, we unravel the complexities of DNA's molecular architecture, shedding light on the bonds, bases, and backbone that define its essence.  
 image: '~/assets/images/240410_blog_picture.png'

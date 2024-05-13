@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-23T00:00:00Z
-author: Yepy Rustam
+
 title: "Unveiling the Intricacies of Structural Bioinformatics"
 excerpt: Delve into the captivating world of structural bioinformatics, where computational algorithms and biological insights converge to decipher the three-dimensional architecture of biomolecules.
 image: '~/assets/images/240423_blog_picture.png'
@@ -49,8 +49,8 @@ As we traverse the labyrinthine landscape of structural bioinformatics, we are p
 
 **References:**
 
-1. Zhang Y. Progress and challenges in protein structure prediction. Curr Opin Struct Biol. 2008;18(3):342-348. doi:10.1016/j.sbi.2008.02.004
-2. Kitchen DB, Decornez H, Furr JR, Bajorath J. Docking and scoring in virtual screening for drug discovery: methods and applications. Nat Rev Drug Discov. 2004;3(11):935-949. doi:10.1038/nrd1549
-3. Berman HM, Westbrook J, Feng Z, et al. The Protein Data Bank. Nucleic Acids Res. 2000;28(1):235-242. doi:10.1093/nar/28.1.235
+1. Zhang Y. Progress and challenges in protein structure prediction. Curr Opin Struct Biol. 2008;18(3):342-348. doi:[10.1016/j.sbi.2008.02.004](https://doi.org/10.1016/j.sbi.2008.02.004)
+2. Kitchen DB, Decornez H, Furr JR, Bajorath J. Docking and scoring in virtual screening for drug discovery: methods and applications. Nat Rev Drug Discov. 2004;3(11):935-949. doi:[10.1038/nrd1549](https://doi.org/10.1038/nrd1549)
+3. Berman HM, Westbrook J, Feng Z, et al. The Protein Data Bank. Nucleic Acids Res. 2000;28(1):235-242. doi:[10.1093/nar/28.1.235](https://doi.org/10.1093/nar/28.1.235)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/celular-membranes-organelles-observation-cell-biology-art)*

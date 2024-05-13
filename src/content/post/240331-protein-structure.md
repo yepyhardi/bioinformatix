@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-03-31T00:00:00Z
-author: Yepy Rustam
+
 title: "Decoding the Blueprint: An Introduction to Protein Structure"
 excerpt: Diving into the fascinating world of proteins unveils a universe of complexity and functionality crucial for life as we know it. In this article, we embark on a journey to understand the basics of protein structure, exploring the intricate architecture that underpins their diverse functions.  
 image: '~/assets/images/240331_blog_picture.png'

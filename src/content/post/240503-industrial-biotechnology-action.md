@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-03T00:00:00Z
-author: Yepy Rustam
+
 title: "Driving Innovation: Industrial Biotechnology in Action"
 excerpt: Explore the diverse applications and formidable challenges of industrial biotechnology, where cutting-edge science meets real-world solutions to drive innovation across various sectors.
 image: '~/assets/images/240503_blog_picture.png'

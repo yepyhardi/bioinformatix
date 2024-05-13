@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-05T00:00:00Z
-author: Yepy Rustam
+
 title: "5 Popular Tools for PCR Primer Design and Analysis"
 excerpt: Explore five popular software packages and websites tailored for newcomers in bioinformatics. From feature-rich platforms to user-friendly interfaces, each tool offers unique capabilities, benefits, and considerations to consider.  
 image: '~/assets/images/240405_blog_picture.png'

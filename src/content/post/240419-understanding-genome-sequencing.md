@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-19T00:00:00Z
-author: Yepy Rustam
+
 title: "Understanding Genome Sequencing Technologies: Decoding the Blueprint of Life"
 excerpt: Delve into the fundamentals of genome sequencing, exploring classic Sanger sequencing, next-generation sequencing (NGS), and third-generation sequencing, and their implications in genomics research.
 image: '~/assets/images/240419_blog_picture.jpg'

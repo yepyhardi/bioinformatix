@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-12T00:00:00Z
-author: Yepy Rustam
+
 title: "DNA Replication: A Closer Look at the Cellular Blueprint"
 excerpt: Delve into the intricacies of DNA replication, a fundamental process that ensures the faithful transmission of genetic information from one generation to the next. From the elegant machinery of enzymes and proteins to the orchestration of intricate molecular events, DNA replication is a marvel of cellular precision and complexity.  
 image: '~/assets/images/240412_blog_picture.png'

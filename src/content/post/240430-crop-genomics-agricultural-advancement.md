@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-04-30T00:00:00Z
-author: Yepy Rustam
+
 title: "Harvesting Innovation: Crop Genomics in Agricultural Advancement"
 excerpt: Explore the frontier of crop genomics, where cutting-edge genetic technologies drive innovation in agriculture, enhancing crop productivity, resilience, and sustainability.
 image: '~/assets/images/240430_blog_picture.png'
@@ -46,8 +46,8 @@ Despite its promise, crop genomics faces challenges related to genetic complexit
 As we navigate the evolving landscape of agriculture, crop genomics emerges as a catalyst for innovation and sustainability, driving the development of crops that are more productive, resilient, and nutritious. By harnessing the power of genetics to optimize crop traits, crop genomics empowers farmers to meet the growing demand for food, feed, fiber, and bioenergy while safeguarding the health of our planet and future generations.
 
 **Further Reading:**
-- [Crop Genomics: Challenges and Opportunities](https://www.nature.com/articles/s41598-019-40242-0)
-- [Genomics-Assisted Breeding for Crop Improvement](https://www.sciencedirect.com/science/article/pii/S1674205218300261)
-- [Climate-Resilient Crops: Insights from Crop Genomics](https://www.frontiersin.org/articles/10.3389/fpls.2021.626472/full)
+- Abdallah, N. A., Prakash, C. S., & McHughen, A. G. (2015). Genome editing for crop improvement: Challenges and opportunities. GM crops & food, 6(4), 183–205. DOI: [10.1080/21645698.2015.1129937](https://doi.org/10.1080/21645698.2015.1129937)
+- Varshney RK, Graner A, Sorrells ME. Genomics-assisted breeding for crop improvement. Trends Plant Sci. 2005 Dec;10(12):621-30. doi: [10.1016/j.tplants.2005.10.004](https://doi.org/10.1016/j.tplants.2005.10.004). Epub 2005 Nov 14. PMID: 16290213.
+- Zenda, T.; Liu, S.; Dong, A.; Duan, H. Advances in Cereal Crop Genomics for Resilience under Climate Change. Life 2021, 11, 502. DOI: [10.3390/life11060502](https://doi.org/10.3390/life11060502)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/genetically-modified-crops-impacts-controversies-regulations)*

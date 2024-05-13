@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-25T00:00:00Z
-author: Yepy Rustam
-title: "Unraveling the Tree of Life: Exploring Phylogenetics"
+
+title: "The Tree of Life: Exploring Phylogenetics"
 excerpt: Embark on a journey through the evolutionary tapestry of life, as we delve into the fascinating realm of phylogenetics and its role in unraveling the intricate web of evolutionary relationships.
 image: '~/assets/images/240425_blog_picture.jpg'
 category: Phylogenetics
@@ -12,7 +12,7 @@ tags:
   - comparative genomics
   - biodiversity
 metadata:
-  canonical: https://bioinformatix.netlify.app/240425-unraveling-tree-life-exploring-phylogenetics
+  canonical: https://bioinformatix.netlify.app/240425-tree-life-exploring-phylogenetics
 ---
 
 Phylogenetics, the study of evolutionary relationships among organisms, serves as a cornerstone in understanding the diversity and interconnectedness of life on Earth. In this exploration of phylogenetics, we journey through the principles, methods, and applications that underpin the reconstruction of the tree of life.
@@ -53,6 +53,6 @@ As we unravel the branches of the tree of life through the lens of phylogenetics
 
 **Further Reading:**
 - [Understanding Evolution: Phylogenetics](https://evolution.berkeley.edu/evolibrary/article/0_0_0/phylogenetics_01)
-- [Phylogenetics: The Tree of Life](https://www.nature.com/scitable/topicpage/phylogenetics-the-tree-of-life-41956/)
+- Hug, L., Baker, B., Anantharaman, K. et al. A new view of the tree of life. *Nat Microbiol* **1**, 16048 (2016). DOI: [10.1038/nmicrobiol.2016.48](https://doi.org/10.1038/nmicrobiol.2016.48)
 
 *Image credit: [Photo by Adarsh Kummur](https://unsplash.com/@akummur?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/wilted-tree-during-daytime-zThTy8rPPsY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

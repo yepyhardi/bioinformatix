@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-01T00:00:00Z
-author: Yepy Rustam
+
 title: "Deciphering the Microbial Universe: Microbiome Analysis in Human Health"
 excerpt: Delve into the intricate world of the human microbiome, where cutting-edge analytical techniques unravel the complex interplay between microbial communities and human health.
 image: '~/assets/images/240501_blog_picture.png'
@@ -56,8 +56,8 @@ Despite its potential, microbiome analysis faces challenges related to data repr
 As we unravel the mysteries of the human microbiome, microbiome analysis emerges as a powerful tool for understanding the complex interplay between microbial communities and human health. By deciphering microbial signatures associated with health and disease, microbiome analysis offers insights that may revolutionize diagnostics, therapeutics, and personalized medicine in the years to come.
 
 **Further Reading:**
-- [The Human Microbiome Project](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053813/)
-- [Microbiome Analysis: Challenges and Opportunities](https://www.nature.com/articles/s41579-019-0227-6)
-- [Microbiome-based Therapies: Current Status and Future Perspectives](https://www.nature.com/articles/nrmicro3432)
+- Turnbaugh, P., Ley, R., Hamady, M. et al. The Human Microbiome Project. Nature 449, 804–810 (2007). DOI: [10.1038/nature06244](https://doi.org/10.1038/nature06244)
+- Richa Bharti, Dominik G Grimm, Current challenges and best-practice protocols for microbiome analysis, Briefings in Bioinformatics, Volume 22, Issue 1, January 2021, Pages 178–193, DOI: [10.1093/bib/bbz155](https://doi.org/10.1093/bib/bbz155)
+- Gulliver, E. L., Young, R. B., Chonwerawong, M., D'Adamo, G. L., Thomason, T., Widdop, J. T., Rutten, E. L., Rossetto Marcelino, V., Bryant, R. V., Costello, S. P., O'Brien, C. L., Hold, G. L., Giles, E. M., & Forster, S. C. (2022). Review article: the future of microbiome-based therapeutics. Alimentary pharmacology & therapeutics, 56(2), 192–208. DOI: [10.1111/apt.17049](https://doi.org/10.1111/apt.17049)
 
 *Image credit: [easy-peasy.ai](https://easy-peasy.ai/ai-image-generator/images/human-microbiome-ecosystem-insight)*

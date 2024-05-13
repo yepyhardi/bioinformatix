@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-07T00:00:00Z
-author: Yepy Rustam
+
 title: "Decoding the Complexity: Cancer Genomics and Tumor Biology"
 excerpt: Delve into the intricate world of cancer genomics, exploring how genetic alterations drive tumor development and progression, and uncovering potential therapeutic targets.
 image: '~/assets/images/240507_blog_picture.png'

@@ -1,6 +1,6 @@
 ---
 publishDate: 2024-05-04T00:00:00Z
-author: Yepy Rustam
+
 title: "Unraveling Mysteries: The Science of Forensic DNA Analysis"
 excerpt: Explore the fascinating world of forensic DNA analysis, where cutting-edge genomics techniques help solve criminal cases and bring justice to victims and their families.
 image: '~/assets/images/240504_blog_picture.png'
