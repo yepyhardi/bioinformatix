@@ -89,9 +89,8 @@ const getSite = () => {
     base: '/',
     trailingSlash: false,
 
-    googleSiteVerificationId: '',
+    googleSiteVerificationId: 'L8D8POwWuFk3e4_WWOGTNaH1FPi5T5lJoF-6JXwx0OA',
   };
-
   return merge({}, _default, config?.site ?? {}) as SiteConfig;
 };
 
