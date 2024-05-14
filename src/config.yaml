@@ -11,7 +11,7 @@ metadata:
   title:
     default: Bioinformatix
     template: '%s — Bioinformatix'
-  description: "\U0001F680 Accelerates life sciences through computer science utilization."
+  description: "Accelerates life sciences through computer science utilization."
   robots:
     index: true
     follow: true
@@ -23,8 +23,8 @@ metadata:
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
+    handle: '@yepyhardi'
+    site: '@yepyhardi'
     cardType: summary_large_image
 
 i18n:
@@ -34,7 +34,7 @@ i18n:
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 6
+    postsPerPage: 10
 
     post:
       isEnabled: true
